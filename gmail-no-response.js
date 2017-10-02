@@ -17,7 +17,7 @@
 var unrespondedLabel = 'No Response',
     ignoreLabel = 'Ignore No Response',
     minTime = '5d',   // 5 days
-    maxTime = '14d';  // 14 days
+    maxTime = '730d';  // 14 days
 
 // Mapping of Gmail search time units to milliseconds.
 var UNIT_MAPPING = {
